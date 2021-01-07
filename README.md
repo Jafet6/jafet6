@@ -2,7 +2,7 @@
 
 ## Hello There, I'm Jafet! 🤘
  🌍 Global citizen living in Brazil!\
- 📷 Tennis player, series addicted in free time...
+ 📷 Tennis player, series addict in free time...
 ### 💻 Full-Stack Javascript Developer: 
 
 #### Frontend
