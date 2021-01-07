@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Jafet6&show_icons=true&theme=tokyonight" alt="Jafet6's status" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jafet6&show_icons=true&theme=nightowl" alt="Jafet6's status" align="right" />
 
 ## Hello There, I'm Jafet! 🤘
  🌍 Global citizen living in Brazil!\
