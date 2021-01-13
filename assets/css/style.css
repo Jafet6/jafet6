@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/gif2.gif") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -1157,10 +1157,12 @@ section .container {
   bottom: 0;
   padding: 15px;
   text-align: right;
-  font-size: 13px;
   color: #fff;
   z-index: 999999;
+  width: 1%;
+  height: 1%;
 }
+
 
 @media (max-width: 992px) {
   .credits {
@@ -1173,6 +1175,7 @@ section .container {
 .credits a {
   color: #18d26e;
   transition: 0.3s;
+  font-size: 1px;
 }
 
 .credits a:hover {
